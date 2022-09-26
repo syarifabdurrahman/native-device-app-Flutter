@@ -49,5 +49,11 @@
 	<string>We need to take a picture!</string>
 	<key>NSCameraUsageDescription</key>
 	<string>We need to take a picture!</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need to get location!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Need to get location!</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Need to get location!</string>
 </dict>
 </plist>
